@@ -1,0 +1,26 @@
+body, fieldset, form {
+	padding: 1em;
+	margin: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightgoldenrodyellow;
+	color: #5C4033;
+}
+input, select {
+	margin-bottom: 1em;
+	color: #5C4033;
+	margin-left: auto;
+	margin-right: auto;
+}
+div, legend, input{
+	text-align: center;
+}
+#missing {
+	color: red;
+}
+#invalid {
+	color: darkmagenta;
+}
+#valid {
+	color: forestgreen;
+}
